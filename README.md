@@ -7,7 +7,7 @@ No:22X3037
 
 
 ## 2. データセットの説明
-データ分析のプラットフォームであるKaggle上の[ワインのデータセット](https://www.google.co.jp/)についてKmeans法を利用した分析を行った. 
+データ分析のプラットフォームであるKaggle上の[ワインのデータセット](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)についてKmeans法を利用した分析を行った. 
 ワインデータセットは、11個の化学特性と品質スコアの特徴量から構成される。各特徴量の説明を以下に示す。
 
 1. **fixed acidity (固定酸)**: ワインに含まれる酸の中で揮発しない酸。主に酒石酸やリンゴ酸が含まれる。単位: g/dm³
